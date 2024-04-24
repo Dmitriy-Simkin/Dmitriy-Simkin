@@ -1,5 +1,5 @@
 
-<div><p style="width: 50%;" align="center">Привет👋 Меня зовут Дмитрий!</p>  </div>
+<div><p style="font-size: 50px;" align="center">Привет👋 Меня зовут Дмитрий!</p>  </div>
   <br/>
 <h2> 👩‍💻 Обо мне</h2>
 <br/>
