@@ -17,7 +17,7 @@
 <br/>  
 
 
-<p align="center"><img src="https://github.com/Dmitriy-Simkin/Dmitriy-Simkin/assets/79321303/60196134-99e6-4a8d-a89b-9bdcfadb5c89" width="600" height="250"></p>
+<p align="center"><img src="https://github.com/Dmitriy-Simkin/Dmitriy-Simkin/assets/79321303/ee1bb7d0-db6f-4217-8528-83ace624fc5f" width="700" height="150"></p>
 
 🛠 **Технологии:**
 
