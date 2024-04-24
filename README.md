@@ -1,6 +1,6 @@
 
-![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/Dmitriy-Simkin/Dmitriy-Simkin/assets/79321303/0fd7c341-2c49-4c87-8a7d-8389dac99b25)
-<h1>Привет👋 Меня зовут Дмитрий!</h1>
+<p align="center"><img src="https://github.com/Dmitriy-Simkin/Dmitriy-Simkin/assets/79321303/0fd7c341-2c49-4c87-8a7d-8389dac99b25" width="600" height="350"></p>
+<h1 align="center">Привет👋 Меня зовут Дмитрий!</h1>
 <br></br>
 
 👩‍💻 **Обо мне**
